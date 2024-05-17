@@ -1,4 +1,7 @@
 *.zip
 *.txt
+*.xlsx
+*.pdf
 Dataset_Ownership_Efek/
 Dataset_Masterfile_Efek/
+Sustainability_Report/
