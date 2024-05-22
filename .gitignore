@@ -3,6 +3,7 @@
 *.xlsx
 *.pdf
 *.py
+*.csv
 Dataset_Ownership_Efek/
 Dataset_Masterfile_Efek/
 Sustainability_Report/
