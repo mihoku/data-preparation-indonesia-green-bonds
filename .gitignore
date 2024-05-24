@@ -4,6 +4,8 @@
 *.pdf
 *.py
 *.csv
+*.R
+openbb.ipynb
 Dataset_Ownership_Efek/
 Dataset_Masterfile_Efek/
 Sustainability_Report/
